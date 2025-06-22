@@ -1,1 +1,1 @@
-# [https://makslevental.github.io/mlir-python-wasm](https://makslevental.github.io/mlir-python-wasm)
+# [https://makslevental.github.io/mlir-python-wasm](http://makslevental.github.io/mlir-python-wasm/lab/index.html?path=mwe.ipynb)
